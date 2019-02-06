@@ -3,6 +3,8 @@
 
 DeepVO: Towards end-to-end visual odometry with deep Recurrent Convolutional Neural Networks
 
+This is an implementation of the ICRA 2017 work in PyTorch.
+
 ### Prerequisites
 
 blas 1.1, cuda 9.1, cudatoolkit 9.0, cython 0.28.3, hdf5 1.10.2,
