@@ -13,3 +13,9 @@ tensorboard.
 ### Results
 Estimated trajectory on KITTI sequences.
 ![Alt text](./teaser.png?raw=true "Predicted v/s Ground truth")
+
+
+
+
+For details contact : Sarthak Sharma(sarthak.alexrider@gmail.com), Krishna Murthy(krrish94@gmail.com) .
+
