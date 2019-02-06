@@ -1,0 +1,6 @@
+exp/pascal*
+slurm*
+launch*
+cache/*
+code.tar.gz
+models/*
