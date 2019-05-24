@@ -1,23 +1,20 @@
-# Project Title
+# The Earth ain't Flat: Monocular Reconstruction of Vehicles on Steep and Graded Roads from a Moving Camera
 
 
-DeepVO: Towards end-to-end visual odometry with deep Recurrent Convolutional Neural Networks
+Published in IROS 18
 
-This is an implementation of the ICRA 2017 work in PyTorch.
-
-### Prerequisites
-
-blas 1.1, cuda 9.1, cudatoolkit 9.0, cython 0.28.3, hdf5 1.10.2,
-libprotobuf 3.5.2, matplotlib 2.2.2, numpy 1.15.1, openblas 0.2.20, opencv 3.4.1,
-pandas 0.23.4, python 2.7, pytorch 0.4.1, scikit-image, scipy 1.1.0, torchvision and
-tensorboard. 
-
+Paper link : https://arxiv.org/abs/1803.02057
 ### Results
-Estimated trajectory on KITTI sequences.
-![Alt text](./teaser.png?raw=true "Predicted v/s Ground truth")
+Some results on KITTI
+![Alt text](./results.png?raw=true "")
+ 
+ 
+ Pipeline
+![Alt text](./CarShape_36/pipeline.jpg?raw=true "")
+
+Keypoint Network
+![Alt text](./CarShape_36/wireframe-deck-3.jpg?raw=true "")
 
 
-
-
-For details contact : Sarthak Sharma(sarthak.alexrider@gmail.com), Krishna Murthy(krrish94@gmail.com) .
+For details contact : Junadi Ahmed Ansari (ansariahmedjunaid@gmail.com ), Sarthak Sharma(sarthak.alexrider@gmail.com), Krishna Murthy(krrish94@gmail.com) .
 
