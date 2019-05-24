@@ -1,20 +1,13 @@
-# The Earth ain't Flat: Monocular Reconstruction of Vehicles on Steep and Graded Roads from a Moving Camera
+# DeepVO: Towards End-to-End Visual Odometry with Deep Recurrent Convolutional Neural Networks
 
 
-Published in IROS 18
+PyTorch implementation of the ICRA18 paper.
 
-Paper link : https://arxiv.org/abs/1803.02057
 ### Results
 Some results on KITTI
 ![Alt text](./results.png?raw=true "")
  
  
- Pipeline
-![Alt text](./CarShape_36/pipeline.jpg?raw=true "")
 
-Keypoint Network
-![Alt text](./CarShape_36/wireframe-deck-3.jpg?raw=true "")
-
-
-For details contact : Junadi Ahmed Ansari (ansariahmedjunaid@gmail.com ), Sarthak Sharma(sarthak.alexrider@gmail.com), Krishna Murthy(krrish94@gmail.com) .
+For details contact : Sarthak Sharma(sarthak.alexrider@gmail.com), Krishna Murthy(krrish94@gmail.com) .
 
