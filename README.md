@@ -5,7 +5,7 @@ PyTorch implementation of the ICRA18 paper.
 
 ### Results
 Some results on KITTI
-![Alt text](./results.png?raw=true "")
+![Alt text](./teaser.png?raw=true "")
  
  
 
